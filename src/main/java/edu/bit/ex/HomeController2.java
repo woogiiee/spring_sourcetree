@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 
 //version1
+//version2
 @Controller
 public class HomeController2 {
 	
