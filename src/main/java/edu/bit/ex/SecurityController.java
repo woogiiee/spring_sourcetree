@@ -16,16 +16,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 
 
-//master-1
-//develop-1
-//develop-2
-//develop-3
-//develop-4
-//develop-5
 @Controller
-public class HomeController {
+public class SecurityController {
 	
-	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
+	private static final Logger logger = LoggerFactory.getLogger(SecurityController.class);
 	
 	/**
 	 * Simply selects the home view to render by returning its name.
